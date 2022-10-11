@@ -1,0 +1,1 @@
+[07-Jan-2019 07:06:34 UTC] PHP Warning:  file_get_contents(../voctanpdatabase/81150087229.json): failed to open stream: No such file or directory in /home/kaepsi/public_html/confirm/index.php on line 2
